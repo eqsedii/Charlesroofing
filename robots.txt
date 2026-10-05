@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlesroofing.co.ke/sitemap.xml
